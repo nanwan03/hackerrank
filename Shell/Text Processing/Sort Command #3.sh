@@ -1,1 +1,3 @@
+#!/bin/bash
+
 sort -n

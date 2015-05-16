@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cut -c2-7
+uniq -u

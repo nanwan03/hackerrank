@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read a
 if [ $a == "y" ] || [ $a == "Y" ]; then
   echo "YES"

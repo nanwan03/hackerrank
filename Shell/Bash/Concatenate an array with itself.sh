@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while read line
 do
     my_array=("${my_array[@]}" $line)

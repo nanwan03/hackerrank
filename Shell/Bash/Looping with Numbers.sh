@@ -1,3 +1,5 @@
+#!/bin/bash
+
 COUNTER=1
 while [  $COUNTER -lt 51 ]; do
     echo $COUNTER
